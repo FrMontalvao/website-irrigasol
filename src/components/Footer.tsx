@@ -109,6 +109,15 @@ export function Footer() {
               >
                 <Instagram size={20} />
               </a>
+                <a
+                    href ="https://wa.me/5577999736040"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="bg-gray-800 p-2 rounded-lg hover:bg-green-500 transition-colors"
+                    aria-label="Instagram"
+                >
+                    <Phone size={20} />
+                </a>
             </div>
           </div>
         </div>
