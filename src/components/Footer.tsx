@@ -95,7 +95,7 @@ export function Footer() {
             <div className="flex gap-3 mt-4">
               <a
                 href="#"
-                className="bg-gray-800 p-2 rounded-lg hover:bg-orange-500 transition-colors"
+                className="bg-gray-800 p-2 rounded-lg hover:bg-green-700 transition-colors"
                 aria-label="Facebook"
               >
                 <Facebook size={20} />
@@ -104,7 +104,7 @@ export function Footer() {
                 href="https://www.instagram.com/irrigasoll/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gray-800 p-2 rounded-lg hover:bg-orange-500 transition-colors"
+                className="bg-gray-800 p-2 rounded-lg hover:bg-green-700 transition-colors"
                 aria-label="Instagram"
               >
                 <Instagram size={20} />
@@ -113,7 +113,7 @@ export function Footer() {
                     href ="https://wa.me/5577999736040"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="bg-gray-800 p-2 rounded-lg hover:bg-green-500 transition-colors"
+                    className="bg-gray-800 p-2 rounded-lg hover:bg-green-700 transition-colors"
                     aria-label="Instagram"
                 >
                     <Phone size={20} />
