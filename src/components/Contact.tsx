@@ -65,7 +65,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="text-gray-600 text-sm">E-mail</p>
-                    <p className="text-gray-900">contato@irrgasol.com.br</p>
+                    <p className="text-gray-900">orcamento@irrgasol.com.br</p>
                   </div>
                 </div>
 
@@ -75,7 +75,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="text-gray-600 text-sm">Endereço</p>
-                    <p className="text-gray-900">Sua cidade, Estado</p>
+                    <p className="text-gray-900">Montalvania, MG</p>
                   </div>
                 </div>
               </div>
